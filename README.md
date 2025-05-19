@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Ameer Sakeeb</h1>
 <h3 align="center">A passionate Fullstack developer from Srilanka</h3>
-Fun Fact: 🧠 I believe Ctrl+Z should exist in real life.
+- 🧠 Fun Fact: **I believe Ctrl+Z should exist in real life.**
 
 - 🌱 I’m currently learning **Frameworks, Web Development and started to follow an AI/ML Course**
 
