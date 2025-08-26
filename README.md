@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Frameworks, Fullstack Development, and other Related Tools and Technologies**
 
-- ⚡ Fun fact **I believe that Ctrl+Z should exist in real life.**
+- ⚡ Fun fact: **I believe that Ctrl+Z should exist in real life.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
