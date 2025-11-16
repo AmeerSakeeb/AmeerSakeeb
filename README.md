@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ameer Sakeeb</h1>
 <h3 align="center">A passionate Fullstack developer from SriLanka</h3>
 
-- 🌱 I’m currently learning **Frameworks, Fullstack Development, and other Related Tools and Technologies**
+- 🌱 I’m currently learning **AI, Machine Learning, Frameworks, Fullstack Development, and other Related Tools and Technologies**
 
-- ⚡ Fun fact: **I believe that Ctrl+Z should exist in real life.**
+- ⚡ Fun fact: **I always think that Ctrl+Z should exist in real life.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
